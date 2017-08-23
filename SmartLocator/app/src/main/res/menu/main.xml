@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Account"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About Us"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/contact"
+        android:orderInCategory="100"
+        android:title="Location"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="100"
+        android:title="Exit App"
+        app:showAsAction="never" />
+
+
+
+
+</menu>
